@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+
+AirlineReservationSystem/passengers.json
+AirlineReservationSystem/flights.json
+AirlineReservationSystem/reservations.json
